@@ -30,7 +30,7 @@ First **5 pages are free** — no purchase needed to get started.
 
 | Step | What to do |
 |------|-----------|
-| ① | **[Download DocSnap.exe](https://github.com/YOUR_USERNAME/docsnap/releases/latest)** (free) |
+| ① | **[Download DocSnap.exe]([https://github.com/bumpstar28/DocSnap/releases/tag/v1.0.0])** (free) |
 | ② | Get a free Gemini API key at [aistudio.google.com](https://aistudio.google.com) |
 | ③ | Run DocSnap and paste your API key in Settings |
 | ④ | **[Purchase a license key](https://bumpster28.gumroad.com/l/docsnap)** to unlock unlimited use |
