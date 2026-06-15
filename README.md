@@ -63,7 +63,7 @@ First **5 pages are free** — no purchase needed to get started.
 
 - Windows 10 / 11 (64-bit)
 - Free Google Gemini API key — [get one here](https://aistudio.google.com) (takes about 1 minute)
-- Internet connection for OCR processing
+- Internet connection for Gemini processing
 
 ## 🔑 License
 
