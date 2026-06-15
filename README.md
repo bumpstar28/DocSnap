@@ -70,9 +70,12 @@ First **5 pages are free** — no purchase needed to get started.
 DocSnap is a paid desktop application.
 
 - **Free trial** — 5 pages included, no time limit
-- **Full license** — $20 one-time purchase, lifetime access, no subscription
+- **Full license** — $12 one-time purchase, lifetime access, no subscription
 
-👉 **[Buy on Gumroad — $20](https://bumpster28.gumroad.com/l/docsnap)**
+> 💡 **$12 — less than a nice lunch.** Skip one overpriced sandwich, own a tool that saves you hours every week — forever.  
+> No subscription. No renewal. Pay once, use it as long as you want.
+
+👉 **[Buy on Gumroad — $12](https://bumpster28.gumroad.com/l/docsnap)**
 
 ## 🛡️ Privacy
 
