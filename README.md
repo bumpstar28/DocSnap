@@ -2,6 +2,12 @@
 <img width="2172" height="724" alt="header_image" src="https://github.com/user-attachments/assets/b5a8e465-3271-462a-b4e5-76a7ed01a46e" />
 </p>
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/127bf0d4-10fb-4e61-838b-a6d3ee8e1e23" 
+         width="100%" autoplay loop muted playsinline>
+  </video>
+</p>
+
 # DocSnap
 
 <p align="center">
