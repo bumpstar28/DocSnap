@@ -52,12 +52,7 @@ First **5 pages are free** — no purchase needed to get started.
 
 ## 🌍 14 UI languages
 
-| | | | |
-|---|---|---|---|
-| 🇺🇸 English | 🇯🇵 Japanese | 🇰🇷 Korean | 🇨🇳 Chinese |
-| 🇹🇭 Thai | 🇮🇳 Hindi | 🇸🇦 Arabic | 🇪🇸 Spanish |
-| 🇧🇷 Portuguese | 🇷🇺 Russian | 🇮🇩 Indonesian | 🇩🇪 German |
-| 🇫🇷 French | 🇧🇩 Bengali | | |
+English / 日本語 / 한국어 / 中文 / ไทย / हिन्दी / العربية / Español / Português / Русский / Bahasa Indonesia / Deutsch / Français / বাংলা
 
 ## 💻 Requirements
 
