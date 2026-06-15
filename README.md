@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="2172" height="724" alt="header_image" src="https://github.com/user-attachments/assets/d56a0496-7470-4e28-99af-2e567db64229" />
-header_image.png" alt="DocSnap" width="100%"/>
+<img width="2172" height="724" alt="header_image" src="https://github.com/user-attachments/assets/b5a8e465-3271-462a-b4e5-76a7ed01a46e" />
 </p>
 
 # DocSnap
