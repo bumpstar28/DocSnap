@@ -8,7 +8,7 @@
   </video>
 </p>
 
-# DocSnap
+# DocSnap — AI-powered OCR · Table & Text Extract · Translate · Excel Export
 
 <p align="center">
   <strong>AI-powered OCR · Extract · Translate · Excel Export</strong>
